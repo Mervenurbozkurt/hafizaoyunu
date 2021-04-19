@@ -1,0 +1,15 @@
+C:\Users\Merve\source\repos\OYUN\OYUN\bin\Release\OYUN.exe.config
+C:\Users\Merve\source\repos\OYUN\OYUN\bin\Release\OYUN.exe
+C:\Users\Merve\source\repos\OYUN\OYUN\bin\Release\OYUN.pdb
+C:\Users\Merve\source\repos\OYUN\OYUN\obj\Release\OYUN.csprojAssemblyReference.cache
+C:\Users\Merve\source\repos\OYUN\OYUN\obj\Release\OYUN.Form1.resources
+C:\Users\Merve\source\repos\OYUN\OYUN\obj\Release\OYUN.Form2.resources
+C:\Users\Merve\source\repos\OYUN\OYUN\obj\Release\OYUN.Properties.Resources.resources
+C:\Users\Merve\source\repos\OYUN\OYUN\obj\Release\OYUN.csproj.GenerateResource.cache
+C:\Users\Merve\source\repos\OYUN\OYUN\obj\Release\OYUN.exe
+C:\Users\Merve\source\repos\OYUN\OYUN\obj\Release\OYUN.pdb
+C:\Users\Merve\source\repos\OYUN\OYUN\bin\Release\Interop.WMPLib.dll
+C:\Users\Merve\source\repos\OYUN\OYUN\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Merve\source\repos\OYUN\OYUN\obj\Release\Interop.WMPLib.dll
+C:\Users\Merve\source\repos\OYUN\OYUN\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Merve\source\repos\OYUN\OYUN\obj\Release\OYUN.csproj.ResolveComReference.cache

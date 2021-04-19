@@ -1,0 +1,10 @@
+C:\Users\Merve\source\repos\OYUN\OYUN\bin\Debug\OYUN.exe.config
+C:\Users\Merve\source\repos\OYUN\OYUN\bin\Debug\OYUN.exe
+C:\Users\Merve\source\repos\OYUN\OYUN\bin\Debug\OYUN.pdb
+C:\Users\Merve\source\repos\OYUN\OYUN\obj\Debug\OYUN.csprojAssemblyReference.cache
+C:\Users\Merve\source\repos\OYUN\OYUN\obj\Debug\OYUN.Form1.resources
+C:\Users\Merve\source\repos\OYUN\OYUN\obj\Debug\OYUN.Form2.resources
+C:\Users\Merve\source\repos\OYUN\OYUN\obj\Debug\OYUN.Properties.Resources.resources
+C:\Users\Merve\source\repos\OYUN\OYUN\obj\Debug\OYUN.csproj.GenerateResource.cache
+C:\Users\Merve\source\repos\OYUN\OYUN\obj\Debug\OYUN.exe
+C:\Users\Merve\source\repos\OYUN\OYUN\obj\Debug\OYUN.pdb
